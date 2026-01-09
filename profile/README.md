@@ -1,4 +1,4 @@
-![vendure-github-social-banner](https://github.com/vendure-ecommerce/.github/assets/24294584/16d7ab6a-4318-4c10-be44-a205cc0d7682)
+![vendure-github-social-banner](https://github.com/vendurehq/.github/assets/24294584/16d7ab6a-4318-4c10-be44-a205cc0d7682)
 
 Vendure is an open source headless commerce platform with a focus on customization and scalability, built on leading technologies like [TypeScript](http://www.typescriptlang.org/), [GraphQL](https://graphql.org/) and [Node.js](https://nodejs.org)
 
@@ -9,7 +9,7 @@ _Build better multichannel commerce experiences faster._ Vendure is the headless
 In addition to our open source edition of the Vendure platform, the Vendure Enterprise Edition offers you an optimal solution for your digital commerce challenges - including our commerical licensing, specialized enterprise features, LTS for a specific version plus SLA-backed support and service. The right solution for enterprises that want to take their digital commerce game to the next level. If you're interested, [please reach out to us](https://vendure.io/contact?interested_in=enterprise_edition). 
 
 ## Overview 
-![dashboard_mockup](https://github.com/vendure-ecommerce/.github/assets/24294584/2d31f6b9-82a8-4e5a-b196-b0a060219812)
+![dashboard_mockup](https://github.com/vendurehq/.github/assets/24294584/2d31f6b9-82a8-4e5a-b196-b0a060219812)
 
 Vendure is a headless commerce platform, that means we are following an API-first approach, offering two API interfaces:
 
