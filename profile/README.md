@@ -1,4 +1,4 @@
-![vendure-github-social-banner](https://assets.vendure.io/2560x1280/64e6952ec9/github-banner.png)
+![vendure-github-social-banner](https://assets.vendure.io/brand/github-banner.png)
 
 <h1 align="center">Headless Enterprise Ecommerce</h1>
 <h3 align="center">Built on an Open Source Core</h3>
