@@ -1,42 +1,51 @@
-![vendure-github-social-banner](https://assets.vendure.io/brand/github-banner.png)
+<p align="center">
+  <a href="https://vendure.io">
+    <img src="./vendure-banner.png" width="1280" alt="Vendure: the ecommerce platform for complex B2B. Pricing, company accounts, approvals and ERP, without the workarounds." />
+  </a>
+</p>
 
-<h1 align="center">Headless Enterprise Ecommerce</h1>
-<h3 align="center">Built on an Open Source Core</h3>
+<h1 align="center">Vendure</h1>
+<p align="center"><strong>The ecommerce platform for complex B2B.</strong></p>
+<p align="center">Pricing, company accounts, approvals and ERP, without the workarounds.</p>
 
-Vendure is the ecommerce platform for teams tackling complex commerce challenges: B2B, multi-vendor marketplaces, subscriptions, and custom business models that off-the-shelf solutions can't handle.
+<p align="center">
+  <a href="https://vendure.io">Website</a> ·
+  <a href="https://docs.vendure.io">Documentation</a> ·
+  <a href="https://vendure.io/pricing">Pricing</a> ·
+  <a href="https://vendure.io/core">Vendure Core</a> ·
+  <a href="https://vendure.io/blog">Blog</a> ·
+  <a href="https://vendure.io/discord">Discord</a>
+</p>
 
-## Platform Overview
+This is the home of Vendure: a commerce backend built with TypeScript, NestJS and GraphQL, released under GPLv3 and run in production by teams whose requirements never fitted a suite or a composable stack. The framework, the storefront starters, the plugin scaffold and the community plugins are all here.
 
-**Commerce Framework** — Built with [TypeScript](http://www.typescriptlang.org/), [GraphQL](https://graphql.org/) and [Node.js](https://nodejs.org), offering a Shop API for storefronts and customer-facing touchpoints, and an Admin API for back-office operations. Designed for customization and extensibility from day one.
+## Start here
 
-**Admin Dashboard** — A modern [React](https://react.dev/)-based UI built with [TanStack](https://tanstack.com/) and [Shadcn](https://ui.shadcn.com/), fully customizable and extensible to match your operational workflows.
+| Repository | What it is |
+| --- | --- |
+| [vendure](https://github.com/vendurehq/vendure) | The platform itself: Shop and Admin APIs, admin dashboard, plugin model. Begin with `npx @vendure/create`. |
+| [nextjs-starter-vendure](https://github.com/vendurehq/nextjs-starter-vendure) | Official Next.js storefront starter. |
+| [tanstack-starter-vendure](https://github.com/vendurehq/tanstack-starter-vendure) | Official TanStack Start storefront starter. |
+| [community-plugins](https://github.com/vendurehq/community-plugins) | Plugins built and maintained by the community. |
+| [plugin-template](https://github.com/vendurehq/plugin-template) | The scaffold for publishing a plugin of your own. |
+| [vendure-demo](https://github.com/vendurehq/vendure-demo) | A dockerised demo server you can run locally before installing anything. |
 
-## Vendure Products
+Storefront starters for Remix, Qwik and Angular, plus deployment examples, are in the [full repository list](https://github.com/orgs/vendurehq/repositories).
 
-### Vendure Enterprise
+## Beyond the open-source core
 
-Enterprise-grade features, commercial licensing, LTS support, and SLA-backed service for teams running Vendure at scale.
+Vendure Core is free and self-hosted. Four plans, Starter, Growth, Scale and Enterprise, add B2B capability on top of it: company accounts, quotes, account hierarchies, approvals, contract pricing and an audit log. [Vendure Cloud](https://vendure.io/cloud), the managed runtime, is included in every paid plan at no extra cost. It is in design-partner preview now, with general availability planned for Q1 2027.
 
-Currently in early access — [reach out to learn more](https://vendure.io/contact?interested_in=enterprise_edition).
+[What each plan adds](https://vendure.io/pricing) · [How Vendure compares](https://vendure.io/compare) · [Moving from another platform](https://vendure.io/migrate)
 
-### Vendure Cloud
+## Open source, and staying that way
 
-Managed Vendure hosting with zero infrastructure overhead.
+Nothing has been moved out of Core to make room for a plan, and nothing will be. The paid capabilities are new work built on top. A licence already granted cannot be withdrawn, so the Core you run today stays free to use, fork and self-host whatever we do next. A plugin exception sits on top of GPLv3, which keeps your own plugins and custom code yours to license as you choose.
 
-Coming soon.
+## Elsewhere
 
-## Professional Services
-
-Building enterprise ecommerce is hard. Our team can help you succeed:
-
-- **Team Augmentation** — Embed experienced Vendure engineers directly into your team
-- **Code & Architecture Reviews** — Get expert feedback on your implementation
-- **Proof of Concept Support** — Validate your technical approach before committing
-- **Technical Consulting** — Strategic guidance for complex commerce challenges
-
-[Get in touch →](https://vendure.io/contact)
-
-## Useful Links
-
-- [Getting Started Guide](https://docs.vendure.io/guides/getting-started/installation/)
-- [Join the Vendure Community](https://vendure.io/community)
+[Getting started guide](https://docs.vendure.io/guides/getting-started/installation/) ·
+[Discord](https://vendure.io/discord) ·
+[Partners](https://vendure.io/partners) ·
+[Professional services](https://vendure.io/services) ·
+[Careers](https://vendure.io/careers)
