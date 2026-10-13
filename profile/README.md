@@ -34,13 +34,9 @@ Storefront starters for Remix, Qwik and Angular, plus deployment examples, are i
 
 ## Beyond the open-source core
 
-Vendure Core is free and self-hosted. Four plans, Starter, Growth, Scale and Enterprise, add B2B capability on top of it: company accounts, quotes, account hierarchies, approvals, contract pricing and an audit log. [Vendure Cloud](https://vendure.io/cloud), the managed runtime, is included in every paid plan at no extra cost. It is in design-partner preview now, with general availability planned for Q1 2027.
+Vendure Core is free and self-hosted. Four plans, Starter, Growth, Scale and Enterprise, add B2B capabilities on top of it, such as company accounts, quotes, account hierarchies, approvals, contract pricing and an audit log. [Vendure Cloud](https://vendure.io/cloud), the managed runtime, is included in every paid plan at no extra cost. It is in design-partner preview now, with general availability planned for Q1 2027.
 
 [What each plan adds](https://vendure.io/pricing) · [How Vendure compares](https://vendure.io/compare) · [Moving from another platform](https://vendure.io/migrate)
-
-## Open source, and staying that way
-
-Nothing has been moved out of Core to make room for a plan, and nothing will be. The paid capabilities are new work built on top. A licence already granted cannot be withdrawn, so the Core you run today stays free to use, fork and self-host whatever we do next. A plugin exception sits on top of GPLv3, which keeps your own plugins and custom code yours to license as you choose.
 
 ## Elsewhere
 
