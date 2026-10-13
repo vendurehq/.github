@@ -1,42 +1,47 @@
-![vendure-github-social-banner](https://assets.vendure.io/brand/github-banner.png)
+<p align="center">
+  <a href="https://vendure.io">
+    <img src="./vendure-banner.png" width="1280" alt="Vendure: the ecommerce platform for complex B2B. Pricing, company accounts, approvals and ERP, without the workarounds." />
+  </a>
+</p>
 
-<h1 align="center">Headless Enterprise Ecommerce</h1>
-<h3 align="center">Built on an Open Source Core</h3>
+<h1 align="center">Vendure</h1>
+<p align="center"><strong>The ecommerce platform for complex B2B.</strong></p>
+<p align="center">Pricing, company accounts, approvals and ERP, without the workarounds.</p>
 
-Vendure is the ecommerce platform for teams tackling complex commerce challenges: B2B, multi-vendor marketplaces, subscriptions, and custom business models that off-the-shelf solutions can't handle.
+<p align="center">
+  <a href="https://vendure.io">Website</a> ·
+  <a href="https://docs.vendure.io">Documentation</a> ·
+  <a href="https://vendure.io/pricing">Pricing</a> ·
+  <a href="https://vendure.io/core">Vendure Core</a> ·
+  <a href="https://vendure.io/blog">Blog</a> ·
+  <a href="https://vendure.io/discord">Discord</a>
+</p>
 
-## Platform Overview
+Vendure is a commerce backend built with TypeScript, NestJS and GraphQL. This organization holds the framework, the storefront starters, the plugin template and the community plugins.
 
-**Commerce Framework** — Built with [TypeScript](http://www.typescriptlang.org/), [GraphQL](https://graphql.org/) and [Node.js](https://nodejs.org), offering a Shop API for storefronts and customer-facing touchpoints, and an Admin API for back-office operations. Designed for customization and extensibility from day one.
+## Start here
 
-**Admin Dashboard** — A modern [React](https://react.dev/)-based UI built with [TanStack](https://tanstack.com/) and [Shadcn](https://ui.shadcn.com/), fully customizable and extensible to match your operational workflows.
+| Repository | What it is |
+| --- | --- |
+| [vendure](https://github.com/vendurehq/vendure) | The framework with the Shop and Admin APIs, the admin dashboard and the plugin system. Start a project with `npx @vendure/create`. |
+| [nextjs-starter-vendure](https://github.com/vendurehq/nextjs-starter-vendure) | Official Next.js storefront starter. |
+| [tanstack-starter-vendure](https://github.com/vendurehq/tanstack-starter-vendure) | Official TanStack Start storefront starter. |
+| [community-plugins](https://github.com/vendurehq/community-plugins) | Plugins built and maintained by the community. |
+| [plugin-template](https://github.com/vendurehq/plugin-template) | A template for building and publishing your own plugin. |
+| [vendure-demo](https://github.com/vendurehq/vendure-demo) | A demo server in Docker that you can run locally. |
 
-## Vendure Products
+Storefront starters for Remix, Qwik and Angular, plus deployment examples, are in the [full repository list](https://github.com/orgs/vendurehq/repositories).
 
-### Vendure Enterprise
+## Beyond the open-source core
 
-Enterprise-grade features, commercial licensing, LTS support, and SLA-backed service for teams running Vendure at scale.
+Vendure Core is free to self-host under the GPLv3 license. Vendure has four paid plans built on top of it: Starter, Growth, Scale and Enterprise. They add B2B features such as company accounts, quotes, contract pricing, account hierarchies, approvals, single sign-on and audit logs. Every paid plan includes [Vendure Cloud](https://vendure.io/cloud), the managed runtime for Vendure, at no extra cost. Cloud is in design-partner preview now, with general availability planned for Q1 2027.
 
-Currently in early access — [reach out to learn more](https://vendure.io/contact?interested_in=enterprise_edition).
+[What each plan adds](https://vendure.io/pricing) · [How Vendure compares](https://vendure.io/compare) · [Moving from another platform](https://vendure.io/migrate)
 
-### Vendure Cloud
+## Elsewhere
 
-Managed Vendure hosting with zero infrastructure overhead.
-
-Coming soon.
-
-## Professional Services
-
-Building enterprise ecommerce is hard. Our team can help you succeed:
-
-- **Team Augmentation** — Embed experienced Vendure engineers directly into your team
-- **Code & Architecture Reviews** — Get expert feedback on your implementation
-- **Proof of Concept Support** — Validate your technical approach before committing
-- **Technical Consulting** — Strategic guidance for complex commerce challenges
-
-[Get in touch →](https://vendure.io/contact)
-
-## Useful Links
-
-- [Getting Started Guide](https://docs.vendure.io/guides/getting-started/installation/)
-- [Join the Vendure Community](https://vendure.io/community)
+[Getting started guide](https://docs.vendure.io/guides/getting-started/installation/) ·
+[Discord](https://vendure.io/discord) ·
+[Partners](https://vendure.io/partners) ·
+[Professional services](https://vendure.io/services) ·
+[Careers](https://vendure.io/careers)
