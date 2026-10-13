@@ -17,24 +17,24 @@
   <a href="https://vendure.io/discord">Discord</a>
 </p>
 
-This is the home of Vendure: a commerce backend built with TypeScript, NestJS and GraphQL, released under GPLv3 and run in production by teams whose requirements never fitted a suite or a composable stack. The framework, the storefront starters, the plugin scaffold and the community plugins are all here.
+Vendure is a commerce backend built with TypeScript, NestJS and GraphQL. This organization holds the framework, the storefront starters, the plugin template and the community plugins.
 
 ## Start here
 
 | Repository | What it is |
 | --- | --- |
-| [vendure](https://github.com/vendurehq/vendure) | The platform itself: Shop and Admin APIs, admin dashboard, plugin model. Begin with `npx @vendure/create`. |
+| [vendure](https://github.com/vendurehq/vendure) | The framework with the Shop and Admin APIs, the admin dashboard and the plugin system. Start a project with `npx @vendure/create`. |
 | [nextjs-starter-vendure](https://github.com/vendurehq/nextjs-starter-vendure) | Official Next.js storefront starter. |
 | [tanstack-starter-vendure](https://github.com/vendurehq/tanstack-starter-vendure) | Official TanStack Start storefront starter. |
 | [community-plugins](https://github.com/vendurehq/community-plugins) | Plugins built and maintained by the community. |
-| [plugin-template](https://github.com/vendurehq/plugin-template) | The scaffold for publishing a plugin of your own. |
-| [vendure-demo](https://github.com/vendurehq/vendure-demo) | A dockerised demo server you can run locally before installing anything. |
+| [plugin-template](https://github.com/vendurehq/plugin-template) | A template for building and publishing your own plugin. |
+| [vendure-demo](https://github.com/vendurehq/vendure-demo) | A demo server in Docker that you can run locally. |
 
 Storefront starters for Remix, Qwik and Angular, plus deployment examples, are in the [full repository list](https://github.com/orgs/vendurehq/repositories).
 
 ## Beyond the open-source core
 
-Vendure Core is free and self-hosted. Four plans, Starter, Growth, Scale and Enterprise, add B2B capabilities on top of it, such as company accounts, quotes, account hierarchies, approvals, contract pricing and an audit log. [Vendure Cloud](https://vendure.io/cloud), the managed runtime, is included in every paid plan at no extra cost. It is in design-partner preview now, with general availability planned for Q1 2027.
+Vendure Core is free to self-host under the GPLv3 license. Vendure has four paid plans built on top of it: Starter, Growth, Scale and Enterprise. They add B2B features such as company accounts, quotes, contract pricing, account hierarchies, approvals, single sign-on and audit logs. Every paid plan includes [Vendure Cloud](https://vendure.io/cloud), the managed runtime for Vendure, at no extra cost. Cloud is in design-partner preview now, with general availability planned for Q1 2027.
 
 [What each plan adds](https://vendure.io/pricing) · [How Vendure compares](https://vendure.io/compare) · [Moving from another platform](https://vendure.io/migrate)
 
